@@ -10,15 +10,12 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.25.0",
-    "@tailwindcss/postcss": "^4.1.11",
     "@uploadthing/react": "^7.3.2",
     "mongoose": "^8.16.3",
     "next": "15.4.1",
-    "postcss": "^8.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "svix": "^1.69.0",
-    "tailwindcss": "^4.1.11",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^7.7.3"
   },
@@ -26,6 +23,9 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
 }

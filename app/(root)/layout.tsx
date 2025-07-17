@@ -32,7 +32,6 @@ export default function RootLayout({
       <html lang='en'>
         <body className={inter.className}>
           <Topbar />
-          <h1 className="text-blue-500">123</h1>
           <main className='flex flex-row'>
             <LeftSidebar />
             <section className='main-container'>
